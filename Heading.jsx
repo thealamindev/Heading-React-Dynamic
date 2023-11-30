@@ -12,7 +12,7 @@ export default Heading;
 
 // =======Single Color Span End======
 
-// =======Multiple Color Span With Rejex
+// =======Multiple Color Span With Regex
 import React from "react";
 
 function Heading({ text }) {
